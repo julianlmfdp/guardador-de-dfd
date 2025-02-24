@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'introduce el radio'
+5
+1
+5
+radio
+4
+1
+21
+'introduce la altura'
+5
+1
+6
+altura
+6
+1
+4
+area
+27
+2*3.14*radio*(altura+radio)
+4
+1
+22
+'el area es: ' , area 
+1
