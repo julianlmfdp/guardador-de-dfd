@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+'introduce tu edad para que sepas que valor descontado tienes'
+5
+1
+4
+edad
+7
+0
+1
+9
+edad <= 5
+7
+0
+1
+10
+edad <= 10
+7
+0
+1
+10
+edad <= 14
+7
+0
+1
+9
+edad <=18
+4
+1
+36
+'ya no cuenta para mayores de edad' 
+13
+4
+1
+57
+'obtiene un descontado del total de la compra por 10.000'
+13
+13
+4
+1
+57
+'obtiene un descontado del total de la compra por 20.000'
+13
+13
+4
+1
+57
+'obtiene un descontado del total de la compra por 35.000'
+13
+13
+4
+1
+57
+'obtiene un descontado del total de la compra por 50.000'
+13
+1

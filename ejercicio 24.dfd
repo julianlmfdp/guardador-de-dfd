@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+1
+a
+6
+3
+3
+des
+10
+(a*20)/100
+3
+iva
+10
+(a*19)/100
+9
+retencion
+9
+(a*3)/100
+6
+1
+9
+resultado
+19
+a-des+iva-retencion
+4
+1
+184
+'la compra salio por ' , a , ' su descuento de la compra fue de ' , des , ' su iva fue de ' , iva , ' su retencion en la fuente fue de ' , retencion , ' y en total fue de ' , resultado
+1
