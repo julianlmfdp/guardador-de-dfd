@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Vienvenido señor usuario'
+4
+1
+71
+'señor usuario por favor digite cuantos mililitros desea en su perjume'
+5
+1
+10
+mililitros
+6
+3
+5
+valor
+15
+4500*mililitros
+3
+iva
+14
+(valor*19)/100
+5
+total
+9
+valor+iva
+4
+1
+52
+'señor usuario, su compra sale por ', total ,' pesos
+1

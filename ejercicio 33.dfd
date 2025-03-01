@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'Vienvenido señor ususario'
+4
+1
+28
+'dime el valor de la compra'
+5
+1
+6
+compra
+7
+0
+1
+14
+compra >180000
+6
+1
+1
+a
+12
+compra+20000
+4
+1
+74
+'su envio sale por valor de 20 mil pesos y el total sera de: ', a,' pesos'
+13
+4
+1
+108
+'su compra se paso del limite por lo tanto su envio le sale totalmente gratis y debe pagar' ,compra,' pesos'
+13
+1

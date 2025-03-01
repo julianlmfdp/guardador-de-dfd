@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'dime el valor de los 3 productos'
+5
+1
+5
+a,b,c
+6
+3
+4
+suma
+5
+a+b+c
+9
+descuento
+12
+(suma*5)/100
+5
+total
+14
+suma-descuento
+4
+1
+33
+'el total a pagar es de ' , total
+1

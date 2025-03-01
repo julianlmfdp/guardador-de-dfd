@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+110
+'Vienvenido señor usuario, hoy tenemos 10% de descuento en su compra por ser mayor de 50 años, digite su edad'
+5
+1
+4
+edad
+4
+1
+30
+'digite el valor de su compra'
+5
+1
+5
+valor
+7
+0
+1
+8
+edad>=50
+4
+1
+75
+'no obtiene el descuento y su compra queda igual, que son: ',valor,' pesos'
+13
+6
+2
+3
+des
+14
+(valor*10)/100
+5
+total
+9
+valor-des
+4
+1
+92
+'si es mayor de 50 años y cumple con el requicito y su compra va salir por: ',total,' pesos'
+13
+1
