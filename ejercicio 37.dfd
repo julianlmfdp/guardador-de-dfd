@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Vienvenido señor usuario'
+4
+1
+37
+'digite el valor del primer producto'
+5
+1
+5
+proc1
+4
+1
+38
+'digite el valor del segundo pruducto'
+5
+1
+5
+proc2
+6
+3
+4
+des1
+17
+proc1-(proc1*0.1)
+4
+des2
+17
+proc2-(proc2*0.2)
+5
+total
+9
+des1+des2
+4
+1
+49
+'el descuento del primer producto fue de: ', des1
+4
+1
+50
+'el descuento del segundo producto fue de: ', des2
+4
+1
+29
+'su total a pagar es: ',total
+1

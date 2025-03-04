@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Hola señor usuario Vienbenido'
+4
+1
+27
+'digte el valor de la moto'
+5
+1
+4
+moto
+4
+1
+27
+'digite el valor del carro'
+5
+1
+5
+carro
+6
+2
+4
+suma
+10
+moto+carro
+5
+total
+16
+suma+(suma*0.19)
+4
+1
+28
+'su compra sale por: ',total
+1

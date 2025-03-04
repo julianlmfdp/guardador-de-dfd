@@ -1,0 +1,86 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'vienvenido señor usuario a la compra de almuerzos'
+4
+1
+46
+'señor usuario digite cuantos almuerzos desea'
+5
+1
+9
+almuerzos
+6
+3
+5
+saldo
+4
+4000
+8
+vendidos
+3
+290
+6
+limite
+3
+300
+6
+2
+5
+total
+14
+1500*almuerzos
+8
+ventotal
+18
+vendidos+almuerzos
+7
+0
+1
+12
+almuerzos>=1
+4
+1
+16
+'numero erroneo'
+13
+7
+0
+1
+15
+ventotal<limite
+4
+1
+47
+'lo sentimos ya pasamos el limite de almuerzos'
+13
+7
+0
+1
+11
+saldo>total
+4
+1
+38
+'lo sentimos su saldo es insuficiente'
+13
+6
+1
+6
+saldo2
+11
+saldo-total
+4
+1
+27
+'su saldo quedo en ',saldo2
+13
+13
+13
+1

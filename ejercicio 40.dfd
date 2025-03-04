@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'vienvenido a la rifa'
+4
+1
+28
+'digite un numero de 1 a 99'
+5
+1
+6
+numero
+7
+0
+1
+24
+numero>=1 and numero<=99
+4
+1
+31
+'se paso del limite de numeros'
+13
+7
+0
+1
+21
+numero=7 or numero=43
+4
+1
+10
+'perdiste'
+13
+4
+1
+25
+'felicidades, has ganado'
+13
+13
+1
