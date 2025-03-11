@@ -4,18 +4,50 @@
 1
 0
 0
-5
-1
-1
-x
-6
-1
-1
-y
-6
-x - 10
 4
 1
+23
+'bienvenido al almacen'
+4
 1
-y
+37
+'digite el valor del primer producto'
+5
+1
+5
+proc1
+4
+1
+38
+'digite el valor del segundo producto'
+5
+1
+5
+proc2
+6
+3
+4
+suma
+11
+proc1+proc2
+3
+iva
+11
+(suma*0.19)
+5
+total
+8
+suma+iva
+4
+1
+36
+'el subtotal de la compra es: ',suma
+4
+1
+29
+'el iva agredado es de: ',iva
+4
+1
+32
+'el total a pagar es de: ',total
 1

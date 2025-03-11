@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'bienvenido al almacen olimpo'
+4
+1
+37
+'digite el valor del primer producto'
+5
+1
+5
+proc1
+4
+1
+38
+'digite el valor del segundo producto'
+5
+1
+5
+proc2
+7
+0
+1
+12
+proc1>proc2 
+6
+2
+4
+tol1
+31
+proc1-(proc1*0.02)+(proc1*0-19)
+4
+tol2
+31
+proc2-(proc2*0.02)+(proc2*0-19)
+4
+1
+95
+'al producto se le saco el 2% descuento y se le saco el iva, y el total es de: ',total1, total2
+13
+6
+2
+4
+tol1
+30
+proc1-(proc1*0.3)+(proc1*0-19)
+4
+tol2
+30
+proc2-(proc2*0.3)+(proc2*0-19)
+4
+1
+92
+'al producto se le saco el 30% descuento y se le saco el iva, y el total es de: ',tot1, tol2
+13
+1

@@ -4,18 +4,46 @@
 1
 0
 0
-6
-2
-1
-x
-1
-8
-1
-y
-9
-(x*2+3)/2
 4
 1
+25
+'bienvenido a al almacen'
+4
 1
-y
+37
+'digite el valor del primer producto'
+5
+1
+5
+proc1
+4
+1
+38
+'digite el valor del segundo producto'
+5
+1
+5
+proc2
+4
+1
+37
+'digite el valor del tercer producto'
+5
+1
+5
+proc3
+6
+2
+4
+suma
+17
+proc1+proc2+proc3
+3
+des
+16
+suma-(suma*0.05)
+4
+1
+50
+'su compra tuvo un 5% de descuento quedo a: ', des
 1
