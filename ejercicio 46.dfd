@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+'Vivenido al hospital hoy veremos si eres apto para donar'
+4
+1
+16
+'digite su edad'
+5
+1
+4
+edad
+4
+1
+16
+'digite su peso'
+5
+1
+4
+peso
+7
+0
+1
+31
+edad>17 and edad<66 and peso>49
+4
+1
+20
+'no apto para donar'
+13
+4
+1
+17
+'apto para donar'
+13
+1

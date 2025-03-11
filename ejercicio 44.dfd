@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'Vienvenido señor usuario al inicio de secion en tu cuenta'
+4
+1
+31
+'digite el nombre de la cuenta'
+5
+1
+4
+name
+4
+1
+22
+'digite la contraseña'
+5
+1
+10
+contraseña
+7
+0
+1
+33
+name= 'julian' and contraseña= 25
+4
+1
+12
+'incorrecto'
+13
+4
+1
+33
+'has iniciado sesion, Vienvenido'
+13
+1

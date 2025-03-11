@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Vienvenido señor usuario'
+4
+1
+16
+'digite su edad'
+5
+1
+4
+edad
+4
+1
+24
+'digite su nacionalidad'
+5
+1
+12
+nacionalidad
+7
+0
+1
+35
+edad>17 and nacionalidad='colombia'
+4
+1
+51
+'señor usuario usted esta desautorizado para votar'
+13
+4
+1
+48
+'señor usuario usted esta autorizado para votar'
+13
+1

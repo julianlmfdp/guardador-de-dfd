@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+45
+'Vienvenido estudiante a averiguar tus notas'
+4
+1
+23
+'digite su primer nota'
+5
+1
+4
+not1
+4
+1
+24
+'digite su segunda nota'
+5
+1
+4
+not2
+6
+1
+4
+nota
+13
+(not1+not2)/2
+7
+0
+1
+7
+nota= 5
+7
+0
+1
+21
+nota>=4 and nota<=4.9
+7
+0
+1
+21
+nota>=3 and nota<=3.9
+7
+0
+1
+21
+nota>=0 and nota<=2.9
+4
+1
+11
+'no aplica'
+13
+4
+1
+25
+'tu nota es insuficiente'
+13
+13
+4
+1
+20
+'tu nota es regular'
+13
+13
+4
+1
+22
+'tu nota es muy buena'
+13
+13
+4
+1
+22
+'tu nota es excelente'
+13
+1

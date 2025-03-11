@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+'Vienvenido a la revision de viajes del exterior del pais'
+4
+1
+47
+'si tienes T.I o C.C marque 1 y si no marque 2'
+5
+1
+14
+identificacion
+4
+1
+57
+'si tienes pasaporte marque 1 y si no lo tienes marque 2'
+5
+1
+9
+pasaporte
+7
+0
+1
+33
+ identificacion=1 and pasaporte=1
+4
+1
+30
+'no puedes viajar al exterior'
+13
+4
+1
+30
+'si puedes viajar al exterior'
+13
+1
